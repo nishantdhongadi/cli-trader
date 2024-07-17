@@ -1,5 +1,5 @@
 import click
-from trading import login, buy_crypto, sell_crypto, check_balance       # TODO: write trading.py :p
+from trading import login, buy_crypto, sell_crypto, check_balance      
 
 
 @click.group()
